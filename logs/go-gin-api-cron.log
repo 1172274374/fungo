@@ -66,3 +66,7 @@
 {"level":"info","time":"2023-10-26 16:05:10","caller":"cron/cron_start.go:48","msg":"后台任务初始化完成，总数量：0","domain":"go-gin-api[pro]"}
 {"level":"info","time":"2023-10-26 16:06:36","caller":"cron/cron_start.go:28","msg":"开始初始化后台任务","domain":"go-gin-api[fat]"}
 {"level":"info","time":"2023-10-26 16:06:36","caller":"cron/cron_start.go:48","msg":"后台任务初始化完成，总数量：0","domain":"go-gin-api[fat]"}
+{"level":"info","time":"2023-10-26 16:15:52","caller":"cron/cron_start.go:28","msg":"开始初始化后台任务","domain":"go-gin-api[fat]"}
+{"level":"info","time":"2023-10-26 16:15:52","caller":"cron/cron_start.go:48","msg":"后台任务初始化完成，总数量：0","domain":"go-gin-api[fat]"}
+{"level":"info","time":"2023-10-26 16:18:39","caller":"cron/cron_start.go:28","msg":"开始初始化后台任务","domain":"go-gin-api[dev]"}
+{"level":"info","time":"2023-10-26 16:18:39","caller":"cron/cron_start.go:48","msg":"后台任务初始化完成，总数量：0","domain":"go-gin-api[dev]"}

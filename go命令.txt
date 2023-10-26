@@ -1,0 +1,10 @@
+切换打包环境
+go env -w GOOS=windows
+go env -w GOOS=linux
+
+安装包
+go install
+
+下载包
+go get github.com/astaxie/beego
+
